@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 1,
+    "passes": 1,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-02-16T19:22:00.000Z",
+    "end": "2022-02-16T19:22:00.722Z",
+    "duration": 722
+  },
+  "tests": [
+    {
+      "title": "binds an event listener in addingEventListener()",
+      "fullTitle": "index.js binds an event listener in addingEventListener()",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "binds an event listener in addingEventListener()",
+      "fullTitle": "index.js binds an event listener in addingEventListener()",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
